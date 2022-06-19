@@ -8,7 +8,7 @@ as informações são consumidas de um servidor e apresentadas no aplicativo.
 
 Desenvolvido com a linguagem Kotlin 16 e IDE Android Studio Chipmunk | 2021.2.1
 
-APK disponível para download e instalação
+APK disponível para download e instalação : https://github.com/soligueto/PIVII-Reuso-Agua/blob/master/app-release.apk
 
 O aplicativo é livre não sendo aplicado nenhum tipo de restrição quanto ao uso e/ou modificação,
 pedimos apenas mencionar os desenvolvedores.
